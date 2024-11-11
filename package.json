@@ -28,6 +28,7 @@
     "electron": "32.2.0",
     "eslint": "^8.57.1",
     "eslint-plugin-import": "^2.31.0",
+    "lightning-base-components": "^1.22.3-alpha",
     "lwc": "^8.1.3",
     "rollup": "^4.24.0",
     "ts-node": "^10.9.2",
